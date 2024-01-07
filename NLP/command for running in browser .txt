@@ -1,0 +1,4 @@
+python cmd> streamlit run app.py
+
+
+localhost:..............
